@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SDesEncryptionDecryption", "SDesEncryptionDecryption\SDesEncryptionDecryption.vbproj", "{23AE5BF2-0D2E-4477-810A-E73840B0CC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23AE5BF2-0D2E-4477-810A-E73840B0CC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AE5BF2-0D2E-4477-810A-E73840B0CC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AE5BF2-0D2E-4477-810A-E73840B0CC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AE5BF2-0D2E-4477-810A-E73840B0CC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
